@@ -1,2 +1,2 @@
-# Xadrez_game
+# Chess_game
  Xadrez para dois jogadores feito com Pygame!
